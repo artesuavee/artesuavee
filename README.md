@@ -12,6 +12,9 @@ I build **AI agents on the Claude API** (Tool Use, RAG, streaming, multi-agent o
 
 ## 🔭 Featured
 
+- **[claude-research-agent](https://github.com/artesuavee/claude-research-agent)** — autonomous web research: real search, page reading, notes → structured report
+- **[claude-support-agent](https://github.com/artesuavee/claude-support-agent)** — grounded support agent: knowledge base, order lookup, human escalation
+- **[claude-sales-agent](https://github.com/artesuavee/claude-sales-agent)** — lead qualification, catalog-grounded pricing, lead capture
 - **[Portfolio — 49 projects](https://github.com/artesuavee/portfolio)** · [live showcase](https://artesuavee.github.io/portfolio/) — 22 landing pages, 10 Claude-powered AI agents, 12 Telegram bots, 5 mobile apps
 - **[@artesuave_support_bot](https://t.me/artesuave_support_bot)** — support bot running live in production (Railway)
 
