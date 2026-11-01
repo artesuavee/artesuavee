@@ -1,30 +1,23 @@
-# Idris — AI Engineer & Full-Stack Developer
+# Idris Dabyl
 
-```console
-$ whoami
-AI/prompt engineer · agent orchestration · full-stack web & bots
-Kazakhstan 🇰🇿 · open for freelance & remote · reply < 1 hour
-```
+**Junior AI Engineer · Python & LLM applications** · 2nd-year Electrical Engineering student at Satbayev University, Almaty 🇰🇿
 
-I build **AI agents on the Claude API** (Tool Use, RAG, streaming, multi-agent orchestration), **Telegram bots** (aiogram 3, FSM), **landing pages** that convert, and **React Native apps**.
+I build AI-assisted products for real business problems. I frame the problem, choose the architecture, direct AI coding agents (Claude Code) and verify the result with tests and metrics. Now deepening hands-on Python, ML evaluation and backend engineering.
 
-**RU:** Делаю AI-агентов на Claude API, Telegram-ботов, продающие лендинги и мобильные приложения. Быстро, качественно, со сроками, зафиксированными до старта.
+## Highlights
 
-## 🔭 Featured
+- **SupGuard** — support-ticket triage and reply-drafting copilot for Grand Mobile, built solo at **Decentrathon 6.0**. No paid LLM calls at runtime ($0 per ticket, p95 latency 17 ms on CPU). Category accuracy **0.84** on 1,000 held-out tickets (5-fold out-of-fold), priority macro-F1 **0.885**, **0** invented citations in drafts. *Code is in the organizers' private repo; a public write-up is coming.*
+- **Seller AI** — FastAPI service that answers buyer messages from listing data, qualifies leads and escalates complex cases to a manager; in assist mode nothing is sent without human approval. Pydantic AI, async queue, SQLite with idempotency and crash recovery, Docker, CI, 31 tests. *Private for now; public version coming.*
+- **Earlier experiments with the Claude API** (built with AI coding agents): [claude-research-agent](https://github.com/artesuavee/claude-research-agent) · [claude-support-agent](https://github.com/artesuavee/claude-support-agent) · [claude-sales-agent](https://github.com/artesuavee/claude-sales-agent) · [portfolio](https://github.com/artesuavee/portfolio)
 
-- **[claude-research-agent](https://github.com/artesuavee/claude-research-agent)** — autonomous web research: real search, page reading, notes → structured report
-- **[claude-support-agent](https://github.com/artesuavee/claude-support-agent)** — grounded support agent: knowledge base, order lookup, human escalation
-- **[claude-sales-agent](https://github.com/artesuavee/claude-sales-agent)** — lead qualification, catalog-grounded pricing, lead capture
-- **[Portfolio — 49 projects](https://github.com/artesuavee/portfolio)** · [live showcase](https://artesuavee.github.io/portfolio/) — 22 landing pages, 10 Claude-powered AI agents, 12 Telegram bots, 5 mobile apps
-- **[@artesuave_support_bot](https://t.me/artesuave_support_bot)** — support bot running live in production (Railway)
+## Stack
 
-## 🛠 Stack
+Python · FastAPI · Pydantic / Pydantic AI · scikit-learn · Claude API · SQLite · Docker · GitHub Actions · Claude Code
 
-**AI:** Python 3.12 · Anthropic SDK / Claude API · Tool Use · RAG · FastAPI · prompt engineering · Claude Code
-**Bots:** aiogram 3 · FSM · inline keyboards · payments (Kaspi / Click / Payme)
-**Web:** HTML5 / CSS3 · Vanilla JS · Three.js · Canvas
-**Mobile:** React Native · Expo · React Navigation
+## How I work with AI agents
 
-## 📫 Contact
+Agents generate much of the code. I own the problem framing, the review of every diff, the tests and the evaluation — and I'm responsible for what ships.
 
-Telegram [@chief_irs](https://t.me/chief_irs) · WhatsApp [+7 747 558 1396](https://wa.me/77475581396) · kotovamurka517@gmail.com
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/idris-dabyl) · Telegram [@chief_irs](https://t.me/chief_irs)
